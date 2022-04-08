@@ -16,8 +16,8 @@
 * 4GB LPDDR4
 * 16GB eMMC
 * BeagleBone AI-64 form-factor open-source development board
-   * 2xSuperSpeed-USB type-A host (stacked)
-   * USB type-C dual-role with power input (no power output)
+   * ~2xSuperSpeed-USB type-A host (stacked)~
+   * SuperSpeed USB type-C dual-role with power input (no power output)
    * Gigabit Ethernet with speed/connection indicators
    * HDMI type-A connector
    * TBD SDIO WiFi
