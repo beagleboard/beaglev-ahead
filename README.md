@@ -20,7 +20,7 @@
    * USB type-C dual-role with power input (no power output)
    * Gigabit Ethernet with speed/connection indicators
    * HDMI type-A connector
-   * M.2 E-key with ~PCIe~ SDIO and HighSpeed-USB
+   * TBD SDIO WiFi
    * uSD card cage
    * 2xCSI ribbon cable connectors
    * 1xDSI ribbon cable connector
