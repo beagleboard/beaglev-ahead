@@ -15,7 +15,7 @@
    * C906-based (RV64IMA\[FD]C\[V] ISA) audio processor subsystem
 * 4GB LPDDR4
 * 16GB eMMC
-* BeagleBone AI-64 form-factor open-source development board
+* New Beagle form-factor open-source development board
    * ~2xSuperSpeed-USB type-A host (stacked)~
    * SuperSpeed USB type-C dual-role with power input (no power output)
    * Consider adding USB-to-serial/JTAG for the type-C device and move USB to host-only
