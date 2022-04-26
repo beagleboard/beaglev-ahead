@@ -40,9 +40,23 @@
    * USB-based virtual network for "single-cable development"
 
 # Requirements to begin
-* Documentation needs
+* Documentation needs to *start*
    * Reference schematic and PCB source files
-   * Review Linux device tree
+      * Reference for DDR
+      * Reference for PMIC and power design
+   * Additional SoC details (Chinese language is good) - pointers to licensed IP is fine
+      * Power consumption
+   * Clear legal path to usage
+      * Verify the IP in the SoC is licensed for use
+      * Verify the IP *user* documentation can be public
+      * Signed 3P agreement
+   * Supplier part commitment
+      * 10k parts for launch
+      * 50k units per year
+      * fixed price and availability 5 years as long as 10k units per year
+    * SDK source required to test board
+      * Review Linux device tree
+* Documentation needs to *launch*
    * Additional SoC details (Chinese language is good) - pointers to licensed IP is fine
       * Overview of SoC Memory Map
       * Boot process
@@ -60,18 +74,10 @@
       * GPIO controller (including register map)
       * Gigabit Ethernet MAC (including register map)
       * USB controller (including register map)
-* Clear legal path to usage
-   * Verify the IP in the SoC is licensed for use
-   * Verify the IP *user* documentation can be public
-   * Signed 3P agreement
-* Supplier part commitment
-   * 10k parts for launch
-   * 50k units per year
-   * fixed price and availability 5 years as long as 10k units per year
-* Open source Linux kernel with full SoC entitlement (or register-level detailed IP documentation)
-   * V4L2 driver for video encoder/decoder
-   * IMG 3D open source Mesa/Vulkan driver
-   * libcamera and V4L2 driver for ISP and CSI video interace for common sensors (IMX219-based Pi camera)
-   * DRM driver for the 2D image accelerator, display processing unit and DSI video interface
-   * ALSA driver for audio interface
-   * 
+   * SDK source
+      * Open source Linux kernel with reasonable SoC entitlement (or register-level detailed IP documentation)
+      * V4L2 driver for video encoder/decoder
+      * IMG 3D open source Mesa/Vulkan driver
+      * libcamera and V4L2 driver for ISP and CSI video interace for common sensors (IMX219-based Pi camera)
+      * DRM driver for the 2D image accelerator, display processing unit and DSI video interface
+      * ALSA driver for audio interface
