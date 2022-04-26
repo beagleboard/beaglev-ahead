@@ -42,6 +42,7 @@
 # Requirements to begin
 * Documentation needs
    * Reference schematic and PCB
+   * Review Linux device tree
    * Additional SoC details (Chinese language is good) - pointers to licensed IP is fine
       * Overview of SoC Memory Map
       * Boot process
