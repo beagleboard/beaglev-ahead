@@ -42,7 +42,7 @@
 # Requirements to begin
 * Documentation needs
    * Reference schematic and PCB
-   * Additional SoC details
+   * Additional SoC details (Chinese language is good)
       * Overview of SoC Memory Map
       * Boot process
       * Clocking and reset
