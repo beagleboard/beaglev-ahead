@@ -38,3 +38,12 @@
    * Familiar and flexible graphical user interface environment
    * Self-hosted Visual Studio Code IDE via web-browser
    * USB-based virtual network for "single-cable development"
+
+# Requirements to begin
+* Documentation
+* Schematic and PCB
+* Commitment of 50k units
+* Verify the IP in the SoC is licensed for use
+* Linux kernel with full SoC entitlement
+   * V4L driver for video encoder/decoder
+   * 
