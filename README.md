@@ -42,7 +42,7 @@
 # Requirements to begin
 * Documentation needs
    * Reference schematic and PCB
-   * Additional SoC details (Chinese language is good)
+   * Additional SoC details (Chinese language is good) - pointers to licensed IP is fine
       * Overview of SoC Memory Map
       * Boot process
       * Clocking and reset
@@ -61,6 +61,7 @@
       * USB controller (including register map)
 * Clear legal path to usage
    * Verify the IP in the SoC is licensed for use
+   * Verify the IP *user* documentation can be public
    * Signed 3P agreement
 * Supplier part commitment
    * 10k parts for launch
