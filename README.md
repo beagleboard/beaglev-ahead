@@ -52,8 +52,8 @@
       * Signed 3P agreement
    * Supplier part commitment
       * 10k parts for launch
-      * 50k units per year
-      * fixed price and availability 5 years as long as 10k units per year
+      * ~~50k units per year~~
+      * ~~fixed price and availability 5 years as long as 10k units per year~~
     * SDK source required to test board
       * Review Linux device tree
 * Documentation needs to *launch*
