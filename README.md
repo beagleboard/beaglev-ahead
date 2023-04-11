@@ -81,3 +81,9 @@
       * libcamera and V4L2 driver for ISP and CSI video interace for common sensors (IMX219-based Pi camera)
       * DRM driver for the 2D image accelerator, display processing unit and DSI video interface
       * ALSA driver for audio interface
+
+## DVT v0.2 testing
+
+1. [UART debug port access](debug.md)
+2. [WiFi connection](WiFi.md)
+3. [GPIO testing](GPIO.md)
