@@ -84,6 +84,7 @@
 
 ## DVT v0.2 testing
 
-1. [UART debug port access](debug.md)
-2. [WiFi connection](WiFi.md)
-3. [GPIO testing](GPIO.md)
+1. [Flash latest Ubuntu image](flashing.md)
+2. [UART debug port access](debug.md)
+3. [WiFi connection](WiFi.md)
+4. [GPIO testing](GPIO.md)
