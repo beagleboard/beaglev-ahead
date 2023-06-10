@@ -1,4 +1,3 @@
-
 # Setup Bluetooth
 
 To connect to wifi we will be using `wpa_cli` tool, first we need to set the credentials for the wifi and then we will initialize the connection by reconfiguiring the wlan0 interface to use new credentials.
@@ -9,6 +8,12 @@ we use `brcm_patchram_plus` tool to setup bluetooth, first we need to trigger re
 gpioset gpiochip2 28=0
 gpioset gpiochip2 28=1
 
+#upload fw
+brcm_patchram_plus --enable_hci --no2bytes --tosleep 200000 --baudrate 3000000 --patchram /lib/firmware/BCM43013A0_001.001.006.1073.1102.hcd /dev/ttyS4 &
+```
+
+# Setup Bluetooth (with Debug)
+```
 #upload fw
 brcm_patchram_plus -d --enable_hci --no2bytes --tosleep 200000 --baudrate 3000000 --patchram /lib/firmware/BCM43013A0_001.001.006.1073.1102.hcd /dev/ttyS4 &
 ```
