@@ -88,3 +88,4 @@
 2. [UART debug port access](debug.md)
 3. [WiFi connection](WiFi.md)
 4. [GPIO testing](GPIO.md)
+5. [Bluetooth testing](Bluetooth.md) 
