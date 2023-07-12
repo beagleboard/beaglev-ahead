@@ -1,5 +1,7 @@
 # BeagleV-Ahead
 
+[BeagleV Ahead banner](images/BeagleV-Ahead-banner.webp)
+
 * T-Head TH1520 AI system-on-chip processor
    * Quad-core XuanTie C910 open-source RTL RISC-V (RV64GCV ISA) CPU @ 2GHz
      * 3 issue, 8 instruction, 9-12 stage pipeline
