@@ -5,7 +5,7 @@
 
 ## Links
 
-* Terms and conditions: https://docs.beagleboard.org/latest/boards/terms-and-conditions
+* Terms and conditions: https://docs.beagleboard.org/latest/boards/terms-and-conditions.html
 * Documentation: https://docs.beagleboard.org/latest/boards/beaglev/ahead
 * Design: https://git.beagleboard.org/beaglev-ahead/beaglev-ahead
 * Support: https://forum.beagleboard.org/tags/c/beaglev/15/ahead
