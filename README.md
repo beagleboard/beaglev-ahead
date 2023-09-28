@@ -2,6 +2,18 @@
 
 ![BeagleV Ahead banner](images/BeagleV-Ahead-banner.webp)
 
+
+## Links
+
+* Terms and conditions: https://docs.beagleboard.org/latest/boards/terms-and-conditions
+* Documentation: https://docs.beagleboard.org/latest/boards/beaglev/ahead
+* Design: https://git.beagleboard.org/beaglev-ahead/beaglev-ahead
+* Support: https://forum.beagleboard.org/tags/c/beaglev/15/ahead
+* Repair: https://www.beagleboard.org/rma
+* Purchase: https://beaglev-ahead.org
+
+## Features
+
 * T-Head TH1520 AI system-on-chip processor
    * Quad-core XuanTie C910 open-source RTL RISC-V (RV64GCV ISA) CPU @ 2GHz
      * 3 issue, 8 instruction, 9-12 stage pipeline
