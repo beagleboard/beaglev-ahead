@@ -4,8 +4,9 @@
 
 ## Certified open source
 
-[![](OSHW_mark_US002535.png)](https://certification.oshwa.org/us002535.html)
-
+<a href="https://certification.oshwa.org/us002535.html">
+   <img src="OSHW_mark_US002535.png" alt="drawing" width="200"/>
+</a>
 
 ## Links
 
