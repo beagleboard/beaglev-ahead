@@ -2,6 +2,10 @@
 
 ![BeagleV Ahead banner](images/BeagleV-Ahead-banner.webp)
 
+## Certified open source
+
+[![](OSHW_mark_US002535.png)](https://certification.oshwa.org/us002535.html)
+
 
 ## Links
 
